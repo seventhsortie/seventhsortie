@@ -3,8 +3,8 @@
 ```swift
 struct AboutMe {
     let firstName: String = "Faizah"
-    let frontendLanguages: [String] = ["Java", "Swift", "Kotlin"]
-    let backendLanguages: [String] = ["C++", "C#", "Ruby on Rails", "SQL", "SQLite", "PHP"]
+    let frontendLanguages: [String] = ["React,js", "Java", "Swift", "Kotlin"]
+    let backendLanguages: [String] = ["C++", "C#", "Ruby on Rails", "SQL", "SQLite", "PHP", "MongoDB"]
     let skills: [String] = ["Certified Scrum Master", "IBM Cybersecurity Analyst"]
     let future: String = "Software Engineer/Cybersecurity Analyst"
     let hobbies: [String] = ["Flying planes", "Taekwondo", "Playing the piano"]
@@ -13,6 +13,10 @@ struct AboutMe {
 }
 
 ```
-<b>I love connecting with people, so please do say hi.</b>
+Other Tech:
+👩🏻‍💻 Unity | Blender | Photoshop | Animate | Premier Pro | Figma
+🎹 Garageband | Musescore
+
+
 
 
