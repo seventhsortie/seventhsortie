@@ -9,12 +9,13 @@ struct AboutMe {
     let future: String = "Software Engineer/Cybersecurity Analyst"
     let hobbies: [String] = ["Flying planes", "Taekwondo", "Playing the piano"]
     let whereImFrom: String = "🇸🇬 Singapore"
-    var location: String = "🇳🇿 Aotearoa New Zealand"
+    var location: String = "🇳🇿 Aotearoa New Zealand and the United Arab Emirates."
 }
 
 ```
 Other Tech:
 👩🏻‍💻 Unity | Blender | Photoshop | Animate | Premier Pro | Figma
+
 🎹 Garageband | Musescore
 
 
