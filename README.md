@@ -1,4 +1,6 @@
-<h1>👋 Hello! Here's a bit about me...</h1>
+<h1>👋 Hello! Here's a bit about me...</h1><img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" align="right">
+
+
 
 ```swift
 struct AboutMe {
@@ -9,7 +11,7 @@ struct AboutMe {
     let future: String = "Software Engineer/Cybersecurity Analyst"
     let hobbies: [String] = ["Flying planes", "Taekwondo", "Playing the piano"]
     let whereImFrom: String = "🇸🇬 Singapore"
-    var location: String = "🇳🇿 Aotearoa New Zealand and the United Arab Emirates."
+    var location: String = "🇳🇿 Aotearoa New Zealand and the 🇦🇪 United Arab Emirates."
 }
 
 ```
