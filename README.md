@@ -14,8 +14,9 @@ struct AboutMe {
 
 ```
 ## Other Tech:
-👩🏻‍💻 Unity | Blender | Photoshop | Animate | Premier Pro | Figma
+👩🏻‍💻 Unity | Blender | Photoshop | Animate | Premier Pro | Figma | Illustrator <br>
 🎹 Garageband | Musescore
+
 
 
 
