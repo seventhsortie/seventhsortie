@@ -13,7 +13,7 @@ struct AboutMe {
 }
 
 ```
-Other Tech:
+## Other Tech:
 👩🏻‍💻 Unity | Blender | Photoshop | Animate | Premier Pro | Figma
 🎹 Garageband | Musescore
 
