@@ -1,4 +1,4 @@
-<b>👋 Hello! Here's a bit about me...</b>
+<h1>👋 Hello! Here's a bit about me...</h1>
 
 ```swift
 struct AboutMe {
