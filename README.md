@@ -4,7 +4,8 @@
 struct AboutMe {
     let firstName: String = "Faizah"
     let frontendLanguages: [String] = ["Java", "Swift", "Kotlin", React.js]
-    let backendLanguages: [String] = ["C++", "C#", "Ruby on Rails", "SQL", "SQLite", "PHP"]
+    let backendLanguages: [String] = ["C++", "C#", "Ruby on Rails", "SQL", 
+                                      "SQLite", "PHP"]
     let otherTech: [String] = ["Adobe XD", "Figma", "Illustrator", "Photoshop", "Unity", "Blender", 
                                "Android Studio"]
     let skills: [String] = ["Certified Scrum Master", "IBM Cybersecurity Analyst"]
