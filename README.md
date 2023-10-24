@@ -5,15 +5,14 @@
 ```swift
 struct AboutMe {
     let name: String = "Faizah"
-    let frontendTech: [String] = ["React", "Java", "Swift", "Kotlin"]
-    let backendTech: [String] = ["C++", "C#", "Ruby on Rails", "PHP", "Java","Node.js"]
-    let databases: [String] = ["SQL", "SQLite", "MongoDB"]
+    let languages: [String] = ["React", "Swift", "Ruby on Rails", "C++", "Java", "Node.js"]
     let skills: [String] = ["Certified Scrum Master", "IBM Cybersecurity Analyst"]
     let futureRole: String = "Software Engineer/Cybersecurity"
     let hobbies: [String] = ["Flying planes", "Taekwondo", "Piano"]
     let origin: String = "🇸🇬 Singapore"
     let currentLocation: String = "NZ & UAE"
 }
+
 
 
 ```
