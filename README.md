@@ -5,8 +5,8 @@
 ```swift
 struct AboutMe {
     let name: String = "Faizah"
-    let frontendTech: [String] = ["React.js", "Java", "Swift", "Kotlin"]
-    let backendTech: [String] = ["C++", "C#", "Ruby on Rails", "PHP"]
+    let frontendTech: [String] = ["React", "Java", "Swift", "Kotlin"]
+    let backendTech: [String] = ["C++", "C#", "Ruby on Rails", "PHP", "Java"]
     let databases: [String] = ["SQL", "SQLite", "MongoDB"]
     let skills: [String] = ["Certified Scrum Master", "IBM Cybersecurity Analyst"]
     let futureRole: String = "Software Engineer/Cybersecurity Analyst"
