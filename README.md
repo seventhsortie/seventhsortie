@@ -1,4 +1,4 @@
-<h1>👋 Hello! Here's a bit about me...</h1><img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" align="right">
+<h1>👋 Hello! Here's a bit about me...</h1><img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="80" align="right">
 
 
 
