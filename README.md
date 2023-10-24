@@ -4,15 +4,17 @@
 
 ```swift
 struct AboutMe {
-    let firstName: String = "Faizah"
-    let frontendLanguages: [String] = ["React,js", "Java", "Swift", "Kotlin"]
-    let backendLanguages: [String] = ["C++", "C#", "Ruby on Rails", "SQL", "SQLite", "PHP", "MongoDB"]
+    let name: String = "Faizah"
+    let frontendTech: [String] = ["React.js", "Java", "Swift", "Kotlin"]
+    let backendTech: [String] = ["C++", "C#", "Ruby on Rails", "PHP"]
+    let databases: [String] = ["SQL", "SQLite", "MongoDB"]
     let skills: [String] = ["Certified Scrum Master", "IBM Cybersecurity Analyst"]
-    let future: String = "Software Engineer/Cybersecurity Analyst"
-    let hobbies: [String] = ["Flying planes", "Taekwondo", "Playing the piano"]
-    let whereImFrom: String = "🇸🇬 Singapore"
-    var location: String = "🇳🇿 Aotearoa New Zealand and the 🇦🇪 United Arab Emirates."
+    let futureRole: String = "Software Engineer/Cybersecurity Analyst"
+    let hobbies: [String] = ["Flying planes", "Taekwondo", "Piano"]
+    let origin: String = "🇸🇬 Singapore"
+    let currentLocation: String = "NZ & UAE"
 }
+
 
 ```
 ## Other Tech:
