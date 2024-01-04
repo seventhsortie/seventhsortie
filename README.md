@@ -5,7 +5,7 @@
 ```swift
 struct AboutMe {
     let name: String = "Faizah"
-    let languages: [String] = ["React", "Swift", "Ruby on Rails", "C++", "Java", "Node.js"]
+    let languages: [String] = ["React", "Python", "Swift", "Ruby on Rails", "C++", "Java", "Node.js", "MongoDB"]
     let skills: [String] = ["Certified Scrum Master", "IBM Cybersecurity Analyst"]
     let futureRole: String = "Software Engineer/Cybersecurity"
     let hobbies: [String] = ["Flying planes", "Taekwondo", "Piano"]
