@@ -1,16 +1,12 @@
-<h1>👋 Hello! I'm Fai. Here's a bit about me. </h1><img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="80" align="right">
+# Hi, I'm Faizah! 👋 <br>
 
-👩🏻‍💻 Aspiring Software Engineer and Cybersecurity Analyst. <br>
-🖥️ Python, React, Java, C++ and Kotlin.<br>
-💡 I also meddle in iOS Development and am building my first full-fledged iOS app. <br>
-🌎 I've lived in Singapore, the United Arab Emirates and New Zealand (all three are home to me).
+💡 Aspiring Software Engineer & Cybersecurity Analyst <br>
+👩🏻‍💻 Always on the lookout for software and application development oppportunities. <br>
+🌍 Based in Auckland, New Zealand, Dubai, United Arab Emirates and Singapore.
 
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,react,css,js,py,django,java,cs,cpp,kotlin,swift,maven,spring,php,mysql,sqlite,nodejs,flutter,wordpress,vscode,visualstudio,unity,blender,ps,ai,pr,discord,github,git)](https://skillicons.dev)
 
-
-
-## Other Tech:
-👩🏻‍💻 Unity | Blender | Photoshop | Animate | Premier Pro | Figma | Illustrator <br>
-🎹 Garageband | Musescore
 
 
 
