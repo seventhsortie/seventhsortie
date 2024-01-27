@@ -2,7 +2,7 @@
 
 💡 Aspiring Software Engineer & Cybersecurity Analyst <br>
 👩🏻‍💻 Always on the lookout for software and application development oppportunities. <br>
-🌍 Based in Auckland, New Zealand and Dubai, United Arab Emirates.
+🌍 Based in Auckland, New Zealand and Dubai, United Arab Emirates. <br>
 🔨 Currently working on <strong> Karak Sipper </strong> 
 
 ## My Skills
